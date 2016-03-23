@@ -1,1 +1,6 @@
 D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Home\Patrick\Dev\Perso\Visual Studio 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
